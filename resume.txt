@@ -1,0 +1,17 @@
+=======================================================
+JohnJ Jingleheimer-Schmidt
+jjjschmidt@gmail.com
+
+Education
+Psychology,
+UMaryland, 2002Software Engineering,
+Johns Hopkins U, 2005
+
+Experience
+Software Developer II
+Amtrak, June 2015-June2018
+ -Lorem ipsum
+ -Gaudeamos Igitur Iuvenes Dum Somos
+
+Skills
+PHP, highly skilled
